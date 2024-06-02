@@ -44,8 +44,8 @@ npm test
 
 ## Swagger API Dökümanlarını görüntülemek için
 
-[http](http://localhost:3000/api-docs)
+http://localhost:3000/api-docs
 
 # Projeye Browser'dan erişmek için
 
-[http]http://localhost:3000
+http://localhost:3000
